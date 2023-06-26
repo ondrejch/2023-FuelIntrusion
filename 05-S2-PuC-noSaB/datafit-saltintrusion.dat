@@ -1,0 +1,4 @@
+# keff and ITC [pcm/K] as a function of fuel salt graphite instrusion %
+# FSGI[%]   keff  sigma(k)    ITC    sigma(ITC)    eta     sig(eta)    f     sig(f)       p     sig(p)    epsilon  sig(eps)
+    0.0  1.273420 0.000079   +8.846830 0.004878  1.533200 0.000220  0.913283 0.000071  0.810143 0.000096  1.122860 0.000098
+    1.0  0.829116 0.000124   -9.515120 0.008158  1.496800 0.000270  1.000000 0.000000  0.472990 0.000220  1.171230 0.000150
